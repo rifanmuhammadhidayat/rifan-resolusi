@@ -1,2 +1,2 @@
 # rifan-resolusi
-resolusi rifan selama satu tahun kedepan
+repository untuk menyimpan rencana rifan kedepanya
