@@ -1,0 +1,38 @@
+[
+    {
+        "judul" : "Amoeba",
+        "tgl" : "Membelah Diri",
+        "imageId" : "amoeba",
+        "tempat" : "Protozoa",
+        "deskripsi" : "Amoeba berkembang biak dengan cara membelah diri. Bersumber dari Kompas.com, amoeba termasuk ke dalam protozoa atau protista mirip hewan. Sebab, amoeba memiliki alat gerak berupa rhizopoda. Rhizopoda amoeba adalah kaki semu yang membuat amoeba dapat bergerak bebas."
+    }, 
+    {
+        "judul" : "Cilata",
+        "tgl" : "Membelah Diri",
+        "imageId" : "ciliata",
+        "tempat" : "Protozoa",
+        "deskripsi" : "Ciliata juga berkembang biak dengan cara membelah diri. Sama seperti amoeba, ciliata juga merupakan protozoa atau protista mirip hewan. Ciliata bergerak dengan cilia atau rambut getar. Rambut getar ini tersebar di seluruh permukaan ciliata, terutama di mulut. Fungsinya adalah untuk memasukkan makanan seperti alga atau bakteri. Karena itu, ciliata digolongkan sebagai heterotrof atau tidak dapat menghasilkan makanannya sendiri."
+    },
+    {
+        "judul" : "Flagellata Caudatum",
+        "tgl" : "Membelah Diri",
+        "imageId" : "caudatum",
+        "tempat" : "Protista",
+        "deskripsi" : "Contoh berikutnya adalah flagellata caudatum. Makhluk hidup ini juga digolongkan sebagai protista mirip hewan. Ia bergerak dengan flagel atau rambut cambuk.."
+    },
+    {
+        "judul" : "Cilata",
+        "tgl" : "Membelah Diri",
+        "imageId" : "ciliata",
+        "tempat" : "Protozoa",
+        "deskripsi" : "Ciliata juga berkembang biak dengan cara membelah diri. Sama seperti amoeba, ciliata juga merupakan protozoa atau protista mirip hewan. Ciliata bergerak dengan cilia atau rambut getar. Rambut getar ini tersebar di seluruh permukaan ciliata, terutama di mulut. Fungsinya adalah untuk memasukkan makanan seperti alga atau bakteri. Karena itu, ciliata digolongkan sebagai heterotrof atau tidak dapat menghasilkan makanannya sendiri."
+    },
+    {
+        "judul" : "Amoeba",
+        "tgl" : "Membelah Diri",
+        "imageId" : "amoeba",
+        "tempat" : "Protozoa",
+        "deskripsi" : "Amoeba berkembang biak dengan cara membelah diri. Bersumber dari Kompas.com, amoeba termasuk ke dalam protozoa atau protista mirip hewan. Sebab, amoeba memiliki alat gerak berupa rhizopoda. Rhizopoda amoeba adalah kaki semu yang membuat amoeba dapat bergerak bebas."
+    }
+
+]
